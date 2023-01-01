@@ -1,0 +1,10 @@
+*.bbl
+*.blg
+*.log
+*.aux
+*.out
+*.idx
+*.nlo
+*.toc
+*.cls
+endf102.pdf
